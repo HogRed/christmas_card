@@ -13,10 +13,6 @@ A nostalgic, pure-C++ program that generates a winter scene with:
 - ASCII art built with replace() logic
 - Great example of string manipulation and procedural generation
 
-## Usage
-g++ main.cpp -o card
-./card
-
 ## Example Output
 ![ASCII Christmas Card Output](ascii_demo.png)
 

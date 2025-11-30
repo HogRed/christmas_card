@@ -1,6 +1,6 @@
 # ASCII Christmas Card Generator (C++)
 
-A nostalgic, pure-C++ program that generates a winter scene with:
+A nostalgic, pure-C++ program that generates a Christmas scene with:
 - a snowy ASCII landscape
 - a church with a steeple
 - a Christmas tree
